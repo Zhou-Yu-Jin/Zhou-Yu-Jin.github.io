@@ -1,6 +1,7 @@
+
 body {
   font-family: Arial;
-   color: black;
+   color: #333;
 }
 section {
   display: -webkit-flex;
@@ -11,7 +12,7 @@ section {
 
 label {
   background: #eee; 
-  border: 1px solid green; 
+  border: 1px solid #ddd; 
   padding: .7em 1em;
   cursor: pointer;
   z-index: 1;
@@ -24,7 +25,7 @@ div {
   width: 100%;
   margin-top: -1px;
   padding: 1em;
-  border: 1px solid green;
+  border: 1px solid #ddd;
   -webkit-order: 1;
   order: 1;
 }
@@ -38,4 +39,3 @@ input[type=radio]:checked + label {
 input[type=radio]:checked + label + div {
   display: block;
 }
-
