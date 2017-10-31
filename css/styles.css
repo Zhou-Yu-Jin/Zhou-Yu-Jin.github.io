@@ -24,7 +24,7 @@ body {
 }
 
 h1 {
-	color: #ccc;
+	color: black;
 	text-align: center;
 }
 
@@ -71,7 +71,7 @@ label {
   padding: 20px;
   background: #fff;
   color: #999;
-  border-bottom: 2px solid #f0f0f0;
+  border-bottom: 2px solid green;
 }
 
 .tab_container .tab-content p,
@@ -90,7 +90,7 @@ label {
 }
 
 .tab_container [id^="tab"]:checked + label .fa {
-  color: #0CE;
+  color:red;
 }
 
 label .fa {
