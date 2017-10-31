@@ -33,7 +33,7 @@ body {
         }
       
         .panel {
-          background-color: white;
+          background-color: #fff;
           padding: 20px;
           min-height: 300px;
           display: none;
@@ -63,7 +63,7 @@ body {
 #tab-four:checked ~ .tabs #tab-four-label{
     background-color: #fff;
     cursor: default;
-    border-left-color:green;
+    border-left-color: #69be28;
 }
 
 #tab-one:checked ~ .tabs #tab-one-panel,
