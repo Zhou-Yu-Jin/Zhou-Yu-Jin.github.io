@@ -20,12 +20,13 @@
 
 body {
 	font-family: sans-serif;
-	background:green;
+	background:#33ccff;
 }
 
 h1 {
-	color: black;
+	color: white;
 	text-align: center;
+        font-size:48px;
 }
 
 a {
@@ -53,7 +54,7 @@ label {
   font-size: 18px;
   display: block;
   float: left;
-  width: 20%;
+  width: 14.2%;
   padding: 1.5em;
   color: #757575;
   cursor: pointer;
