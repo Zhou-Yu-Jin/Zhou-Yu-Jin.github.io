@@ -28,6 +28,12 @@ h1 {
 	text-align: center;
   font-size:48px
 }
+h2 {
+	color: pink;
+	text-align: center;
+  font-size:30px
+}
+
 
 a {
   color: #ccc;
@@ -67,7 +73,9 @@ label {
 #tab2:checked ~ #content2,
 #tab3:checked ~ #content3,
 #tab4:checked ~ #content4,
-#tab5:checked ~ #content5 {
+#tab5:checked ~ #content5,
+#tab6:checked ~ #content6,
+#tab7:checked ~ #content7{
   display: block;
   padding: 20px;
   background: #fff;
