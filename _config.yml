@@ -1,8 +1,9 @@
+
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title:英英木瑾-Bella
+description: This is Bella' home.
 logo: favicon.png
-url: kongsong.me
+url: http://zhou-yu-jin.github.io
 rss_url: /feed.xml
 
 # Jekyll
@@ -22,7 +23,7 @@ sass:
 # Comment
 comment:
   disqus: kongsong    
-  # duoshuo: kongsong
+ 
   # youyan: 2122392
   laibili: MTAyMC8yODgzNC81NDA0
 
@@ -37,13 +38,13 @@ author:
   about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
  
 # Social Links
-email:               hi@kongsong.me
+
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+
+github:             Zhou-Yu-Jin
+
+
 #xing:              username
 #instagram:          username
 #lastfm:            username
