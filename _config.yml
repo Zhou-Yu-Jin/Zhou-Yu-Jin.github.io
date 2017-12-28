@@ -3,7 +3,6 @@
 title: 英英木瑾-Bella
 description: This is Bella' home.
 logo: favicon.png
-url: http://zhou-yu-jin.github.io
 rss_url: /feed.xml
 
 # Jekyll
@@ -36,7 +35,6 @@ author:
   #resume: /resume
   name: Song Kong     #the name of Blog section
   about_me: 我是英英木槿，大家可以叫我bella, 我现在是一名网络与新媒体专业的大学生。 This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. 
-		    <h5>很高兴见到你们呦</h5> 
  
 # Social Links
 email:               hi@kongsong.me
