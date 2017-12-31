@@ -6,7 +6,7 @@ logo: favicon.png
 rss_url: /feed.xml
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /posts/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
