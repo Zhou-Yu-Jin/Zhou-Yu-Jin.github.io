@@ -2,7 +2,7 @@
 layout: post-list
 title:  Blog of Bella
 description: "List of posts"
-permalink: /blog/
+permalink: /posts/
 comment: true
 ---
 
