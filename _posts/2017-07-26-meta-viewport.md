@@ -2,7 +2,7 @@
 layout: post
 title:  "由移动端 1px 过粗引发的 viewport 探究"
 date:   2017-07-26 17:31:30 +0800
-categories: [Tech]
+categories: [Web]
 excerpt: UI 一直嫌弃 1px 分割线过粗？解决问题之前，先花一点时间研究下问题的原因吧。
 tags:
   - CN
