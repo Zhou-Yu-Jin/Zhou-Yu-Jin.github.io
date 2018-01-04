@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "信息可视化"
 date:   2018-1-4 21:00:30 +0800
 excerpt: 信息可视化作品练习
